@@ -7,6 +7,9 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//SE AGREGA NUEVO CODIGO
+		float operacion= 450*20;
+		System.out.println("resusltado: " +operacion);
 		//COLECCION DE OBJETOS
 		Clientes cliente = new Clientes(2, "Javier", 2361142647l, "javier@gmail.com");
 		Clientes cliente2 = new Clientes(3, "Fransisco", 5642387966l, "fransisco@gmail.com");
